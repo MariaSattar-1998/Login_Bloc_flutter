@@ -7,6 +7,7 @@ import 'BlocPattern/Events_login.dart';
 import 'Screens/Splash.dart';
 import 'BlocPattern/Bloc_login.dart';
 import 'BlocPattern/States_login.dart';
+import 'package:login_bloc2/Screens/RouteGenerator.dart';
 
 void main() {
   runApp(MyApp());
